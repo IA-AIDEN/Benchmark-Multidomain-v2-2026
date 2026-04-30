@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-AIDEN Benchmark v2.0 — Multidomain Cognitive & Technical Evaluation
+AIDEN Benchmark v2.0 — Multidomain Cognitive & Technical Evaluation 2026
 </h1>
 
 <p align="center">
