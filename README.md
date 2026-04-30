@@ -18,7 +18,7 @@ Real-world multidomain benchmark of AIDEN Core under non-optimized production co
 
 <img src="https://img.shields.io/badge/Technical%20Reasoning-127fa4?style=for-the-badge&logo=googlecloud&logoColor=white">
 
-<img src="https://img.shields.io/badge/Systems%20Engineering-0b7285?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Systems%20Engineering-ed805b?style=for-the-badge&logo=docker&logoColor=white">
 
 </p>
 
