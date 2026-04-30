@@ -1,0 +1,21 @@
+SHA-256 Benchmark Verification
+
+File:
+benchmark_v2_raw.txt
+
+Path:
+C:\Users\JMC FENIX\Downloads\benchmark_v2_raw.txt
+
+Hash:
+69AD211359C5DC9ECC9BF067E74057148F1C2CA3D5E57A95E90624E0B4ADCF20
+
+Generated:
+PowerShell Get-FileHash
+
+Algorithm:
+SHA-256
+
+____
+
+Generated on:
+2026-04-29
